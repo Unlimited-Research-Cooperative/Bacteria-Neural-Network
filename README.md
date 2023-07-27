@@ -1,4 +1,4 @@
-<h1 align="center">Creating bacterial colonies that will learn to play Pong, Go, DOOM, and to decode/encode data to/from human brain organoids
+<h1 align="center">Engineering Bacterial Colonies for Advanced Gaming and Bidirectional Communication with Human Brain Organoids
 
 <div align="center">
   <a href="https://discord.gg/HBHGvDxDmt">
