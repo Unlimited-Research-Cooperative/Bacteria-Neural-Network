@@ -1,4 +1,4 @@
-<h1 align="center">Creating bacterial colonies that will learn to play Pong, Doom, and to decode/encode data to/from human brain organoids
+<h1 align="center">Creating bacterial colonies that will learn to play Pong, Go, DOOM, and to decode/encode data to/from human brain organoids
 
 <div align="center">
   <a href="https://discord.gg/HBHGvDxDmt">
@@ -18,9 +18,10 @@
 <br>
 <h1 align="center">Purpose</h1>
 
-We want to create bacteria colonies that will be able to play Pong.
+<p align="center">We want to create bacteria colonies that will be able to play Pong, Go, DOOM, and to decode/encode data to/from human brain organoids</p>
 
 <h1 align="center">Explanation</h1>
+
 
 In the rapidly evolving sphere of bioelectrical cell communication, advances in bioengineering have paved the way for new insights into microbial behavior, including bacterial biofilms. A bold research proposal presented in this article merges principles of bioelectricity and artificial intelligence (AI), intending to construct a 'bacteria brain.'
 
