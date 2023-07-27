@@ -1,10 +1,4 @@
-# Bacteria-Neural-Network
-Creating bacterial colonies that will learn to play Pong, to play Doom, and to decode/encode data transmissions
-In construction...
-
-![Image](Images/00092.png)
-<h1 align="center">EEG Prediction from Transcranial Electrical Stimulation(tES) using Chaos Theory, Dynamical Systems Theory, a Recurrent Neural Net(RNN), and a Convolutional Neural Net(CNN)</h1>
-
+<h1 align="center">Creating bacterial colonies that will learn to play Pong, Doom, and to decode/encode data to/from human brain organoids
 
 <div align="center">
   <a href="https://discord.gg/HBHGvDxDmt">
