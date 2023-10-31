@@ -3,6 +3,7 @@
 <div align="center">
   <a href="https://discord.gg/GVyaBEjCY2">
     <img src="https://img.shields.io/static/v1?label=Unlimited%20Research%20Cooperative&message=450%20Members&color=7289DA&logo=discord&style=for-the-badge" alt="Discord server">
+
   </a>
 </div>
 
