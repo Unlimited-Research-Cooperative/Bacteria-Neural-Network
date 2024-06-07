@@ -52,8 +52,6 @@ In conclusion, this pioneering research has the potential to significantly contr
 
 
 
-
-
 ## 🤝 Connect
 We're more than a project; we're a movement. Let's make history together. [Get in touch](https://github.com/Synthetic-Intelligence-Labs)!
 
