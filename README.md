@@ -48,8 +48,14 @@ In conclusion, this pioneering research has the potential to significantly contr
 <br>
 <br>
 <br>
+</p>
+<h1 align="center">3D Polyhedral Microelectrode Array Sideview</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Unlimited-Research-Cooperative/Bacteria-Neural-Network/main/Designs/polyhedral_mea_sideview.png" alt="3D MEA 3D microelectrode array polyhedral_mea_sideview.png">
+</p>
 <br>
-
+<br>
+<br>
 
 
 ## 🤝 Connect
